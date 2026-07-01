@@ -6,7 +6,7 @@ I build **practical AI systems, embedded IoT solutions, and automotive diagnosti
 
 ---
 
-## ⚡ What I Do (10-sec version)
+## ⚡ What I Do?
 
 - 🤖 Build **AI Chatbots & RAG systems** (LLMs, vector DBs, document intelligence)
 - 🔌 Design **IoT systems using STM32 / ESP32 / Arduino / Raspberry Pi**
